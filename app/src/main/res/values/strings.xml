@@ -30,4 +30,20 @@
     <string name="kernelsu_next">KernelSU Next</string>
     <string name="apatch">APatch</string>
     <string name="platform">Platform</string>
+    <string name="mh_seems_like_root_isn_t_authorized">Mh… Seems like root isn\'t authorized</string>
+    <string name="modules_empty">No modules found</string>
+    <string name="search_empty">Empty list</string>
+    <string name="search_placeholder">Search…</string>
+
+    <string name="menu_advanced_menu">Advanced Menu</string>
+    <string name="menu_sort_mode">Sort Mode</string>
+    <string name="menu_sort_option_name">Name</string>
+    <string name="menu_sort_option_updated">Updated Time</string>
+    <string name="menu_descending">Descending</string>
+    <string name="menu_pin_enabled">Pin Enabled</string>
+    <string name="menu_pin_action">Pin Action</string>
+    <string name="menu_pin_webui">Pin WebUI</string>
+    <string name="menu_show_updated">Show Updated Time</string>
+    <string name="menu_show_antifeatures">Show Anti-Features</string>
+    <string name="settings_security_inject_eruda_desc">Injecting Eruda cannot be used with WebUI Remote URL</string>
 </resources>

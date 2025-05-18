@@ -1,4 +1,4 @@
-package com.dergoogler.mmrl.webuix
+package com.dergoogler.mmrl.wx
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

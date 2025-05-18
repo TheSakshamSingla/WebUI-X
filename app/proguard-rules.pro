@@ -50,6 +50,6 @@
 
 
 # MMRL:webui reflection
--keep class com.dergoogler.mmrl.webui.model.ModId { *; }
+-keep class com.dergoogler.mmrl.platform.model.ModId { *; }
 -keep class com.dergoogler.mmrl.webui.interfaces.** { *; }
--keep class com.dergoogler.mmrl.webuix.ui.activity.webui.interfaces.KernelSUInterface { *; }
+-keep class com.dergoogler.mmrl.wx.ui.activity.webui.interfaces.KernelSUInterface { *; }
